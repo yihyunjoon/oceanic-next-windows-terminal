@@ -1,5 +1,5 @@
 # oceanic-next-windows-terminal
-Oceanic Next for Windows Terminal
+[Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme) for [Windows Terminal](https://github.com/microsoft/terminal)
 
 ## Installation
 
