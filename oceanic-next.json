@@ -1,11 +1,3 @@
-# oceanic-next-windows-terminal
-Oceanic Next for Windows Terminal
-
-## Installation
-
-Copy this and paste to `schemes` array in Settings
-
-```
 {
     "name" : "Oceanic Next",
     "background" : "#1b2b34",
@@ -27,8 +19,3 @@ Copy this and paste to `schemes` array in Settings
     "brightCyan" : "#5fb3b3",
     "brightWhite" : "#d8dee9"
 }
-```
-
-## Screenshot
-
-![Screenshot](screenshot.png)
